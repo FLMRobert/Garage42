@@ -19,4 +19,11 @@ hergestellt werden können.
 Zum Verleimen der gefrästen Teile benötigt man 6 lange Schraubzwingen und
 einen Winkel zur Kontrolle der Rechtwinkligkeit.
 
-![Ulmer Hocker Verleimen](https://github.com/FLMRobert/Garage42/blob/main/Product/UlmerHocker/Images/UlmerHocker.jpg)
+![Ulmer Hocker Verleimen](https://github.com/FLMRobert/Garage42/blob/main/Product/UlmerHocker/Images/UlmerHocker_Verleimen.jpg)
+
+## Details
+
+* [Einkaufsliste](https://github.com/FLMRobert/Garage42/blob/main/Product/UlmerHocker/UlmerHocker_PurchaseList_DE.md)
+* [Stückliste](https://github.com/FLMRobert/Garage42/blob/main/Product/UlmerHocker/UlmerHocker_BoM_DE.md)
+* [Werkzeug](https://github.com/FLMRobert/Garage42/blob/main/Product/UlmerHocker/UlmerHocker_Tools_DE.md)
+* [Anleitung Text](https://github.com/FLMRobert/Garage42/blob/main/Product/UlmerHocker/UlmerHocker_Steps_DE.md)
